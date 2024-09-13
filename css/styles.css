@@ -4,3 +4,9 @@
   background: #000000;
   opacity: 0.001;
 }
+.mdl-layout--fixed-drawer {
+  background-color: fuchsia;
+}
+.mdl-layout__header-row {
+  background-color: black;
+}
