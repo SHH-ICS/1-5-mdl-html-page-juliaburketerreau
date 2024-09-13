@@ -10,3 +10,6 @@
 .mdl-layout__header-row {
   background-color: black;
 }
+.mdl-navigation__link {
+  background-color:blueviolet;
+}
